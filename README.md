@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelpeng0
-- 👀 I’m interested in Python, crypto currency
+- 👀 I’m interested in Python, Crypto currency
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 
 - 📫 michael.pg.007@gmail.com
